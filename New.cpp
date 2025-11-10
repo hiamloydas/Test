@@ -55,6 +55,7 @@ int main() {
         cout << num << " is an Armstrong number.";
     else
         cout << num << " is not an Armstrong number.";
+    //krjitiofegkfghisrioujkfdhsdiutgyhiuo
 
     return 0;
 } 
